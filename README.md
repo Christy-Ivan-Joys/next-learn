@@ -1,6 +1,6 @@
-# Christy-Ivan-Joys E-Learning Platform
+# 
 
-A modern E-learning platform built with **Next.js** and **TypeScript**, designed to provide an interactive and user-friendly online learning experience.
+An Online examination website built with **Next.js** and **TypeScript**, designed to provide an interactive and user-friendly online learning experience.
 
 ## Table of Contents
 
