@@ -2,19 +2,9 @@
 
 An Online examination website built with **Next.js** and **TypeScript**, designed to provide an interactive and user-friendly online learning experience.
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [Folder Structure](#folder-structure)
-- [License](#license)
-
 ## About
 
-This project is an online learning platform where users can access courses, track progress, and manage their learning. It demonstrates a full-stack Next.js setup with token-based authentication and API integration.
+This project is an online examination platform where users can access exams. It demonstrates a full-stack Next.js setup with token-based authentication and API integration.
 
 ## Features
 
@@ -25,7 +15,7 @@ This project is an online learning platform where users can access courses, trac
 
 ## Tech Stack
 
-- **Frontend:** Next.js, React, TypeScript, CSS
+- **Frontend:** Next.js, React, TypeScript, CSS, Material-UI
 - **Backend:** REST APIs
 - **State Management:** Zustand store manager
 - **HTTP Client:** Axios
